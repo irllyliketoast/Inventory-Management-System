@@ -1,4 +1,4 @@
-Laura Estremera led this project in my Object-Oriented Programming class. This project aims to make a small-scale Inventory Management System for a grocery store using object-oriented programming (JavaScript). Laura Estremera worked collaboratively with three of her peers to program and make a GUI using Scene Builder and JavaFX.
+This project aims to make a small-scale Inventory Management System for a grocery store using object-oriented programming (JavaScript). Laura Estremera worked collaboratively with three of her peers to program and make a GUI using Scene Builder and JavaFX.
 
 Instructions:
 To run the program in its entirety, use the InventoryLogin.java
