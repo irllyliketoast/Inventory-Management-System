@@ -1,6 +1,4 @@
 This project aims to make a small-scale Inventory Management System for a grocery store using object-oriented programming (JavaScript). Uses Java, JavaFX, and Scene Builder.
-
-Instructions:
 To run the program in its entirety, use the InventoryLogin.java
 
 Credits:
