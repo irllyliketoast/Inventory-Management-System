@@ -3,6 +3,9 @@
 ## Overview
 The **Inventory Management System (IMS)** is a software application designed to help manage inventory, track product information, and handle user logins. The system is structured with a user-friendly interface and seamless scene transitions between login and inventory management functionalities.
 
+## Purpose
+The primary purpose of this project was to apply **Object-Oriented Programming (OOP)** concepts in the development of an inventory management system using **JavaFX**. The application follows OOP principles, such as encapsulation, inheritance, and polymorphism, to create well-structured and maintainable code. JavaFX was chosen for its powerful features to build rich graphical user interfaces, allowing us to create an intuitive and visually appealing system for managing inventory.
+
 To run the program in its entirety, execute the `InventoryLogin.java` file, which acts as the entry point to the application.
 
 ## How to Run the Program
@@ -46,11 +49,3 @@ The following team members contributed to the development of the **Inventory Man
 - **User Login**: Secure login system with access control based on user credentials.
 - **Inventory Management**: Add, edit, and delete inventory items; track product details such as name, description, quantity, and price.
 - **Scene Transitions**: Smooth transitions between the login screen and inventory management interface after successful login.
-
-## Future Enhancements
-- Adding user authentication and role-based access (Admin, Manager, Employee).
-- Integration with a database to store inventory data persistently.
-- Reporting features for inventory analytics (e.g., total stock value, low stock alerts).
-
-## License
-This project is open-source and is distributed under the [MIT License](LICENSE).
