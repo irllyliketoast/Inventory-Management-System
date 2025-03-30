@@ -1,4 +1,4 @@
-# Inventory Management System (IMS)
+# Inventory Management System (IMS) - Being Updated
 
 ## Overview
 The **Inventory Management System (IMS)** is a software application designed to help manage inventory, track product information, and handle user logins. The system is structured with a user-friendly interface and seamless scene transitions between login and inventory management functionalities.
